@@ -19,7 +19,8 @@ writing clean and efficient code, seeks the position of Full-Stack / Front-end W
 - 📫 How to reach me **shuvogoswami007@gmail.com**
 
 - ⚡ Fun fact **I play Cricket and go to the GYM very often.**
-- MY YOutube Channel **[YOUTUBE](https://www.youtube.com/channel/UCVbhK3PDdQQizUzBuBrTFzA)**
+
+- MY youtube Channel **[Youtube](https://www.youtube.com/channel/UCVbhK3PDdQQizUzBuBrTFzA)**
  <br>
 
 
