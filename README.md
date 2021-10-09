@@ -20,7 +20,7 @@ writing clean and efficient code, seeks the position of Full-Stack / Front-end W
 
 - ⚡ Fun fact **I play Cricket and go to the GYM very often.**
 
-- MY youtube Channel **[Youtube](https://www.youtube.com/channel/UCVbhK3PDdQQizUzBuBrTFzA)**
+- MY youtube Channel **[কুম্ভকর্ণ'স Vlog](https://www.youtube.com/channel/UCVbhK3PDdQQizUzBuBrTFzA)**
  <br>
 
 
