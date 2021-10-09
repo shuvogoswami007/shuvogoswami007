@@ -21,6 +21,8 @@ writing clean and efficient code, seeks the position of Full-Stack / Front-end W
 - ⚡ Fun fact **I play Cricket and go to the GYM very often.**
 
 - MY youtube Channel **[কুম্ভকর্ণ'স Vlog](https://www.youtube.com/channel/UCVbhK3PDdQQizUzBuBrTFzA)**
+
+ My linkedIn **[linkedIn](https://www.linkedin.com/in/shuvo-goswami-8a94011b4/)**
  <br>
 
 
