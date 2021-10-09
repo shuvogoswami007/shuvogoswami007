@@ -19,12 +19,14 @@ writing clean and efficient code, seeks the position of Full-Stack / Front-end W
 - 📫 How to reach me **shuvogoswami007@gmail.com**
 
 - ⚡ Fun fact **I play Cricket and go to the GYM very often.**
+- <br>
+- <br>
 
 
 
 ![Shuvo Goswami.'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvogoswami007)
 
-
+<br>
 
 ## 🚀 Languages and Tools:
 
