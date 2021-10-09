@@ -20,6 +20,8 @@ writing clean and efficient code, seeks the position of Full-Stack / Front-end W
 
 - ⚡ Fun fact **I play Cricket and go to the GYM very often.**
 
+[![Shuvo Goswami.'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvogoswami007)]
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
